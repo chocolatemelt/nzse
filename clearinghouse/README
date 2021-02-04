@@ -1,0 +1,4 @@
+clearinghouse
+----
+
+backend flask server that handles transactions and clears them between entities

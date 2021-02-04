@@ -1,0 +1,4 @@
+daemon
+----
+
+daemon service that periodically updates ticker prices according to an algorithm

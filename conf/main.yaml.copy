@@ -1,0 +1,6 @@
+# shared configuration
+pg:
+  host: localhost
+  database: nzse
+  user: user
+  password: pass
