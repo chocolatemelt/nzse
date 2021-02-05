@@ -2,3 +2,10 @@ nzse - new zhiland stock exchange
 ----
 
 a system for processing fictional funds for investing in fictional stocks
+
+initial setup with poetry:
+
+install poetry: https://python-poetry.org/docs/#installation
+
+$ poetry install
+$ poetry shell
