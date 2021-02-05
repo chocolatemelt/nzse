@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": "/home/zhang/.cache/pypoetry/virtualenvs/nzse-nM8wpHeL-py3.8/bin/python",
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true
+}
