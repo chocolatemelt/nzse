@@ -1,6 +1,7 @@
 # shared configuration
 pg:
   host: localhost
+  port: 5432
   database: nzse
   user: user
   password: pass

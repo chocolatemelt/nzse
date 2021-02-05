@@ -2,7 +2,7 @@ nzse - new zhiland stock exchange
 ----
 
 a system for processing fictional funds for investing in fictional stocks.
-runs on python 3.8.
+runs on python 3.8 and postgres 11.
 
 initial setup with poetry:
 
@@ -23,3 +23,11 @@ to open this project in VSCode, which should give you first-class terminal suppo
 
 make sure you select flake8 for your linter and black for your auto-formatter.
 and if it wasn't clear already, your interpreter should be the one from your virtualenv.
+
+postgres:
+
+run a restore using data/nzse.sql
+then do fun things
+
+--------------
+you have to run things from root because i cant be assed to fix the absolute paths pls do this chu
