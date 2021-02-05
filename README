@@ -5,7 +5,10 @@ a system for processing fictional funds for investing in fictional stocks
 
 initial setup with poetry:
 
-install poetry: https://python-poetry.org/docs/#installation
+1. install poetry: https://python-poetry.org/docs/#installation
 
+2. install deps
 $ poetry install
+
+run stuff with poetry shell, which creates a virtualenv for you and keeps things nice and tidy
 $ poetry shell
