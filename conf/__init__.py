@@ -1,1 +1,3 @@
-from conf.definitions import *
+from conf.definitions import (
+    config,
+)
