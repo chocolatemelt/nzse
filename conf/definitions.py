@@ -1,7 +1,7 @@
-from pathlib import Path
+import os
 import yaml
 
-ROOT_DIR = Path(__file__).parent
+ROOT_DIR = os.path.realpath(os.path.join(__file__, '../..'))
 
 config = {}
 with open(f"{ROOT_DIR}/conf/main.yaml", "r") as file:
