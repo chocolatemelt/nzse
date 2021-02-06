@@ -1,6 +1,6 @@
 from sqlalchemy import create_engine
 
-from conf import config
+from definitions import config
 
 pg = config["pg"]
 db_string = f"postgres://{pg['user']}:{pg['password']}@{pg['host']}:{pg['port']}/{pg['database']}"
