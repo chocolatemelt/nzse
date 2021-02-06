@@ -12,6 +12,7 @@ initial setup with poetry:
 $ poetry install
 
 run stuff with poetry shell, which creates a virtualenv for you and keeps things nice and tidy
+$ export PYTHON_PATH=$(pwd) # only if you don't already have it exported
 $ poetry shell
 
 vscode shenanigans:
