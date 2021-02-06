@@ -1,3 +1,1 @@
-from conf.definitions import (
-    config,
-)
+from conf.definitions import reload_config, config
